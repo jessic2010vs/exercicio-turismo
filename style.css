@@ -40,11 +40,14 @@ a{
     color: rgb(132, 216, 134);
 }
 #c{
-    background-color: aquamarine;
+    background-color: rgb(248, 250, 249);
 }
 footer{
     color: rgb(255, 255, 255);
     background-color: black;
     text-align: center;
 }
-
+img{
+    width: max-content;
+    max-width: 400px;
+}
